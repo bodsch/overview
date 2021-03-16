@@ -20,6 +20,8 @@
 | [**ansible-syslog-ng**](https://github.com/bodsch/ansible-syslog-ng) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-syslog-ng/CI)][syslog_ngc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-syslog-ng)][syslog_ngi] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-syslog-ng)][syslog_ngr] |
 | [**ansible-unbound**](https://github.com/bodsch/ansible-unbound) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-unbound/CI)][unboundc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-unbound)][unboundi] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-unbound)][unboundr] |
 | [**ansible-users**](https://github.com/bodsch/ansible-users) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-users/CI)][usersc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-users)][usersi] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-users)][usersr] |
+| [**ansible-container**](https://github.com/bodsch/ansible-container) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-container/CI)][containerc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-container)][containeri] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-container)][containerr] |
+| [**ansible-redis**](https://github.com/bodsch/ansible-redis) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-redis/CI)][redisc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-redis)][redisi] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-redis)][redisr] |
 
 
 
@@ -94,4 +96,12 @@
 [usersc]: https://github.com/bodsch/ansible-users/actions
 [usersi]: https://github.com/bodsch/ansible-users/issues?q=is%3Aopen+is%3Aissue
 [usersr]: https://github.com/bodsch/ansible-users/releases
+
+[containerc]: https://github.com/bodsch/ansible-container/actions
+[containeri]: https://github.com/bodsch/ansible-container/issues?q=is%3Aopen+is%3Aissue
+[containerr]: https://github.com/bodsch/ansible-container/releases
+
+[redisc]: https://github.com/bodsch/ansible-redis/actions
+[redisi]: https://github.com/bodsch/ansible-redis/issues?q=is%3Aopen+is%3Aissue
+[redisr]: https://github.com/bodsch/ansible-redis/releases
 
