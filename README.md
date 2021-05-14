@@ -22,6 +22,10 @@
 | [**ansible-users**](https://github.com/bodsch/ansible-users) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-users/CI)][usersc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-users)][usersi] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-users)][usersr] |
 | [**ansible-container**](https://github.com/bodsch/ansible-container) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-container/CI)][containerc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-container)][containeri] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-container)][containerr] |
 | [**ansible-redis**](https://github.com/bodsch/ansible-redis) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-redis/CI)][redisc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-redis)][redisi] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-redis)][redisr] |
+| [**ansible-tomcat**](https://github.com/bodsch/ansible-tomcat) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-tomcat/CI)][tomcatc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-tomcat)][tomcati] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-tomcat)][tomcatr] |
+| [**ansible-fail2ban**](https://github.com/bodsch/ansible-fail2ban) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-fail2ban/CI)][fail2banc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-fail2ban)][fail2bani] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-fail2ban)][fail2banr] |
+| [**ansible-role-docker**](https://github.com/bodsch/ansible-role-docker) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-role-docker/CI)][role_dockerc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-role-docker)][role_dockeri] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-role-docker)][role_dockerr] |
+| [**ansible-rspamd**](https://github.com/bodsch/ansible-rspamd) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-rspamd/CI)][rspamdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-rspamd)][rspamdi] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-rspamd)][rspamdr] |
 
 
 
@@ -104,4 +108,20 @@
 [redisc]: https://github.com/bodsch/ansible-redis/actions
 [redisi]: https://github.com/bodsch/ansible-redis/issues?q=is%3Aopen+is%3Aissue
 [redisr]: https://github.com/bodsch/ansible-redis/releases
+
+[tomcatc]: https://github.com/bodsch/ansible-tomcat/actions
+[tomcati]: https://github.com/bodsch/ansible-tomcat/issues?q=is%3Aopen+is%3Aissue
+[tomcatr]: https://github.com/bodsch/ansible-tomcat/releases
+
+[fail2banc]: https://github.com/bodsch/ansible-fail2ban/actions
+[fail2bani]: https://github.com/bodsch/ansible-fail2ban/issues?q=is%3Aopen+is%3Aissue
+[fail2banr]: https://github.com/bodsch/ansible-fail2ban/releases
+
+[role_dockerc]: https://github.com/bodsch/ansible-role-docker/actions
+[role_dockeri]: https://github.com/bodsch/ansible-role-docker/issues?q=is%3Aopen+is%3Aissue
+[role_dockerr]: https://github.com/bodsch/ansible-role-docker/releases
+
+[rspamdc]: https://github.com/bodsch/ansible-rspamd/actions
+[rspamdi]: https://github.com/bodsch/ansible-rspamd/issues?q=is%3Aopen+is%3Aissue
+[rspamdr]: https://github.com/bodsch/ansible-rspamd/releases
 
