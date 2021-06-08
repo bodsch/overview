@@ -26,6 +26,10 @@
 | [**ansible-fail2ban**](https://github.com/bodsch/ansible-fail2ban) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-fail2ban/CI)][fail2banc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-fail2ban)][fail2bani] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-fail2ban)][fail2banp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-fail2ban)][fail2banr] |
 | [**ansible-role-docker**](https://github.com/bodsch/ansible-role-docker) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-role-docker/CI)][role_dockerc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-role-docker)][role_dockeri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-role-docker)][role_dockerp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-role-docker)][role_dockerr] |
 | [**ansible-rspamd**](https://github.com/bodsch/ansible-rspamd) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-rspamd/CI)][rspamdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-rspamd)][rspamdi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-rspamd)][rspamdp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-rspamd)][rspamdr] |
+| [**ansible-trickster**](https://github.com/bodsch/ansible-trickster) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-trickster/CI)][tricksterc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-trickster)][tricksteri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-trickster)][tricksterp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-trickster)][tricksterr] |
+| [**ansible-apparmor**](https://github.com/bodsch/ansible-apparmor) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-apparmor/CI)][apparmorc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-apparmor)][apparmori] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-apparmor)][apparmorp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-apparmor)][apparmorr] |
+| [**ansible-snapd**](https://github.com/bodsch/ansible-snapd) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-snapd/CI)][snapdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-snapd)][snapdi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-snapd)][snapdp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-snapd)][snapdr] |
+| [**ansible-urbanterror**](https://github.com/bodsch/ansible-urbanterror) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-urbanterror/CI)][urbanterrorc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-urbanterror)][urbanterrori] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-urbanterror)][urbanterrorp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-urbanterror)][urbanterrorr] |
 
 
 
@@ -148,4 +152,24 @@
 [rspamdi]: https://github.com/bodsch/ansible-rspamd/issues?q=is%3Aopen+is%3Aissue
 [rspamdp]: https://github.com/bodsch/ansible-rspamd/pulls?q=is%3Aopen+is%3Apr
 [rspamdr]: https://github.com/bodsch/ansible-rspamd/releases
+
+[tricksterc]: https://github.com/bodsch/ansible-trickster/actions
+[tricksteri]: https://github.com/bodsch/ansible-trickster/issues?q=is%3Aopen+is%3Aissue
+[tricksterp]: https://github.com/bodsch/ansible-trickster/pulls?q=is%3Aopen+is%3Apr
+[tricksterr]: https://github.com/bodsch/ansible-trickster/releases
+
+[apparmorc]: https://github.com/bodsch/ansible-apparmor/actions
+[apparmori]: https://github.com/bodsch/ansible-apparmor/issues?q=is%3Aopen+is%3Aissue
+[apparmorp]: https://github.com/bodsch/ansible-apparmor/pulls?q=is%3Aopen+is%3Apr
+[apparmorr]: https://github.com/bodsch/ansible-apparmor/releases
+
+[snapdc]: https://github.com/bodsch/ansible-snapd/actions
+[snapdi]: https://github.com/bodsch/ansible-snapd/issues?q=is%3Aopen+is%3Aissue
+[snapdp]: https://github.com/bodsch/ansible-snapd/pulls?q=is%3Aopen+is%3Apr
+[snapdr]: https://github.com/bodsch/ansible-snapd/releases
+
+[urbanterrorc]: https://github.com/bodsch/ansible-urbanterror/actions
+[urbanterrori]: https://github.com/bodsch/ansible-urbanterror/issues?q=is%3Aopen+is%3Aissue
+[urbanterrorp]: https://github.com/bodsch/ansible-urbanterror/pulls?q=is%3Aopen+is%3Apr
+[urbanterrorr]: https://github.com/bodsch/ansible-urbanterror/releases
 
