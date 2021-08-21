@@ -14,6 +14,8 @@
 | [**ansible-icinga2**](https://github.com/bodsch/ansible-icinga2) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-icinga2/CI)][icinga2c] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-icinga2)][icinga2i] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-icinga2)][icinga2p] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-icinga2)][icinga2r] |
 | [**ansible-icingaweb2**](https://github.com/bodsch/ansible-icingaweb2) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-icingaweb2/CI)][icingaweb2c] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-icingaweb2)][icingaweb2i] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-icingaweb2)][icingaweb2p] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-icingaweb2)][icingaweb2r] |
 | [**ansible-jolokia**](https://github.com/bodsch/ansible-jolokia) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-jolokia/CI)][jolokiac] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-jolokia)][jolokiai] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-jolokia)][jolokiap] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-jolokia)][jolokiar] |
+| [**ansible-knot**](https://github.com/bodsch/ansible-knot) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-knot/CI)][knotc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-knot)][knoti] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-knot)][knotp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-knot)][knotr] |
+| [**ansible-knot-resolver**](https://github.com/bodsch/ansible-knot-resolver) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-knot-resolver/CI)][knot_resolverc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-knot-resolver)][knot_resolveri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-knot-resolver)][knot_resolverp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-knot-resolver)][knot_resolverr] |
 | [**ansible-logrotate**](https://github.com/bodsch/ansible-logrotate) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-logrotate/CI)][logrotatec] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-logrotate)][logrotatei] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-logrotate)][logrotatep] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-logrotate)][logrotater] |
 | [**ansible-mariadb**](https://github.com/bodsch/ansible-mariadb) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-mariadb/CI)][mariadbc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-mariadb)][mariadbi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-mariadb)][mariadbp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-mariadb)][mariadbr] |
 | [**ansible-maven**](https://github.com/bodsch/ansible-maven) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-maven/CI)][mavenc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-maven)][maveni] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-maven)][mavenp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-maven)][mavenr] |
@@ -93,6 +95,16 @@
 [jolokiai]: https://github.com/bodsch/ansible-jolokia/issues?q=is%3Aopen+is%3Aissue
 [jolokiap]: https://github.com/bodsch/ansible-jolokia/pulls?q=is%3Aopen+is%3Apr
 [jolokiar]: https://github.com/bodsch/ansible-jolokia/releases
+
+[knotc]: https://github.com/bodsch/ansible-knot/actions
+[knoti]: https://github.com/bodsch/ansible-knot/issues?q=is%3Aopen+is%3Aissue
+[knotp]: https://github.com/bodsch/ansible-knot/pulls?q=is%3Aopen+is%3Apr
+[knotr]: https://github.com/bodsch/ansible-knot/releases
+
+[knot_resolverc]: https://github.com/bodsch/ansible-knot-resolver/actions
+[knot_resolveri]: https://github.com/bodsch/ansible-knot-resolver/issues?q=is%3Aopen+is%3Aissue
+[knot_resolverp]: https://github.com/bodsch/ansible-knot-resolver/pulls?q=is%3Aopen+is%3Apr
+[knot_resolverr]: https://github.com/bodsch/ansible-knot-resolver/releases
 
 [logrotatec]: https://github.com/bodsch/ansible-logrotate/actions
 [logrotatei]: https://github.com/bodsch/ansible-logrotate/issues?q=is%3Aopen+is%3Aissue
