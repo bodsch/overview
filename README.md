@@ -44,8 +44,8 @@
 | [**ansible-promtail**](https://github.com/bodsch/ansible-promtail) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-promtail/CI)][promtailc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-promtail)][promtaili] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-promtail)][promtailp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-promtail)][promtailr] |
 | [**ansible-pushgateway**](https://github.com/bodsch/ansible-pushgateway) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-pushgateway/CI)][pushgatewayc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-pushgateway)][pushgatewayi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-pushgateway)][pushgatewayp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-pushgateway)][pushgatewayr] |
 | [**ansible-redis**](https://github.com/bodsch/ansible-redis) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-redis/CI)][redisc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-redis)][redisi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-redis)][redisp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-redis)][redisr] |
+| [**ansible-registry**](https://github.com/bodsch/ansible-registry) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-registry/CI)][registryc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-registry)][registryi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-registry)][registryp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-registry)][registryr] |
 | [**ansible-role-docker**](https://github.com/bodsch/ansible-role-docker) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-role-docker/CI)][role_dockerc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-role-docker)][role_dockeri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-role-docker)][role_dockerp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-role-docker)][role_dockerr] |
-| [**ansible-role-harbor**](https://github.com/bodsch/ansible-role-harbor) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-role-harbor/CI)][role_harborc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-role-harbor)][role_harbori] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-role-harbor)][role_harborp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-role-harbor)][role_harborr] |
 | [**ansible-screen**](https://github.com/bodsch/ansible-screen) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-screen/CI)][screenc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-screen)][screeni] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-screen)][screenp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-screen)][screenr] |
 | [**ansible-snakeoil**](https://github.com/bodsch/ansible-snakeoil) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-snakeoil/CI)][snakeoilc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-snakeoil)][snakeoili] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-snakeoil)][snakeoilp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-snakeoil)][snakeoilr] |
 | [**ansible-snapd**](https://github.com/bodsch/ansible-snapd) | [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bodsch/ansible-snapd/CI)][snapdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-snapd)][snapdi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-snapd)][snapdp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-snapd)][snapdr] |
@@ -267,15 +267,15 @@
 [redisp]: https://github.com/bodsch/ansible-redis/pulls?q=is%3Aopen+is%3Apr
 [redisr]: https://github.com/bodsch/ansible-redis/releases
 
+[registryc]: https://github.com/bodsch/ansible-registry/actions
+[registryi]: https://github.com/bodsch/ansible-registry/issues?q=is%3Aopen+is%3Aissue
+[registryp]: https://github.com/bodsch/ansible-registry/pulls?q=is%3Aopen+is%3Apr
+[registryr]: https://github.com/bodsch/ansible-registry/releases
+
 [role_dockerc]: https://github.com/bodsch/ansible-role-docker/actions
 [role_dockeri]: https://github.com/bodsch/ansible-role-docker/issues?q=is%3Aopen+is%3Aissue
 [role_dockerp]: https://github.com/bodsch/ansible-role-docker/pulls?q=is%3Aopen+is%3Apr
 [role_dockerr]: https://github.com/bodsch/ansible-role-docker/releases
-
-[role_harborc]: https://github.com/bodsch/ansible-role-harbor/actions
-[role_harbori]: https://github.com/bodsch/ansible-role-harbor/issues?q=is%3Aopen+is%3Aissue
-[role_harborp]: https://github.com/bodsch/ansible-role-harbor/pulls?q=is%3Aopen+is%3Apr
-[role_harborr]: https://github.com/bodsch/ansible-role-harbor/releases
 
 [screenc]: https://github.com/bodsch/ansible-screen/actions
 [screeni]: https://github.com/bodsch/ansible-screen/issues?q=is%3Aopen+is%3Aissue
