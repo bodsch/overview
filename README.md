@@ -62,7 +62,6 @@
 | [**ansible-syslog-ng**](https://github.com/bodsch/ansible-syslog-ng) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-syslog-ng/main.yml?branch=main)][syslog_ngc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-syslog-ng)][syslog_ngi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-syslog-ng)][syslog_ngp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-syslog-ng)][syslog_ngr] |
 | [**ansible-telegraf**](https://github.com/bodsch/ansible-telegraf) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-telegraf/main.yml?branch=main)][telegrafc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-telegraf)][telegrafi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-telegraf)][telegrafp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-telegraf)][telegrafr] |
 | [**ansible-trickster**](https://github.com/bodsch/ansible-trickster) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-trickster/main.yml?branch=main)][tricksterc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-trickster)][tricksteri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-trickster)][tricksterp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-trickster)][tricksterr] |
-| [**ansible-ufw**](https://github.com/bodsch/ansible-ufw) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-ufw/main.yml?branch=main)][ufwc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-ufw)][ufwi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-ufw)][ufwp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-ufw)][ufwr] |
 | [**ansible-urbanterror**](https://github.com/bodsch/ansible-urbanterror) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-urbanterror/main.yml?branch=main)][urbanterrorc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-urbanterror)][urbanterrori] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-urbanterror)][urbanterrorp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-urbanterror)][urbanterrorr] |
 | [**ansible-users**](https://github.com/bodsch/ansible-users) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-users/main.yml?branch=main)][usersc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-users)][usersi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-users)][usersp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-users)][usersr] |
 
@@ -367,11 +366,6 @@
 [tricksteri]: https://github.com/bodsch/ansible-trickster/issues?q=is%3Aopen+is%3Aissue
 [tricksterp]: https://github.com/bodsch/ansible-trickster/pulls?q=is%3Aopen+is%3Apr
 [tricksterr]: https://github.com/bodsch/ansible-trickster/releases
-
-[ufwc]: https://github.com/bodsch/ansible-ufw/actions
-[ufwi]: https://github.com/bodsch/ansible-ufw/issues?q=is%3Aopen+is%3Aissue
-[ufwp]: https://github.com/bodsch/ansible-ufw/pulls?q=is%3Aopen+is%3Apr
-[ufwr]: https://github.com/bodsch/ansible-ufw/releases
 
 [urbanterrorc]: https://github.com/bodsch/ansible-urbanterror/actions
 [urbanterrori]: https://github.com/bodsch/ansible-urbanterror/issues?q=is%3Aopen+is%3Aissue
