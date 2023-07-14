@@ -2,7 +2,6 @@
 
 | Project | CI    | issues | pull requests | release |
 | :----   | :---- | :----  | :-----        | :----   |
-| [**ansible-alertmanager**](https://github.com/bodsch/ansible-alertmanager) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-alertmanager/main.yml?branch=main)][alertmanagerc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-alertmanager)][alertmanageri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-alertmanager)][alertmanagerp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-alertmanager)][alertmanagerr] |
 | [**ansible-algernon**](https://github.com/bodsch/ansible-algernon) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-algernon/main.yml?branch=main)][algernonc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-algernon)][algernoni] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-algernon)][algernonp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-algernon)][algernonr] |
 | [**ansible-apparmor**](https://github.com/bodsch/ansible-apparmor) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-apparmor/main.yml?branch=main)][apparmorc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-apparmor)][apparmori] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-apparmor)][apparmorp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-apparmor)][apparmorr] |
 | [**ansible-automysqlbackup**](https://github.com/bodsch/ansible-automysqlbackup) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-automysqlbackup/main.yml?branch=main)][automysqlbackupc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-automysqlbackup)][automysqlbackupi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-automysqlbackup)][automysqlbackupp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-automysqlbackup)][automysqlbackupr] |
@@ -14,7 +13,6 @@
 | [**ansible-container**](https://github.com/bodsch/ansible-container) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-container/main.yml?branch=main)][containerc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-container)][containeri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-container)][containerp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-container)][containerr] |
 | [**ansible-dhcpd**](https://github.com/bodsch/ansible-dhcpd) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-dhcpd/main.yml?branch=main)][dhcpdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-dhcpd)][dhcpdi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-dhcpd)][dhcpdp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-dhcpd)][dhcpdr] |
 | [**ansible-dnsmasq**](https://github.com/bodsch/ansible-dnsmasq) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-dnsmasq/main.yml?branch=main)][dnsmasqc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-dnsmasq)][dnsmasqi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-dnsmasq)][dnsmasqp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-dnsmasq)][dnsmasqr] |
-| [**ansible-docker-sd**](https://github.com/bodsch/ansible-docker-sd) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-docker-sd/main.yml?branch=main)][docker_sdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-docker-sd)][docker_sdi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-docker-sd)][docker_sdp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-docker-sd)][docker_sdr] |
 | [**ansible-dovecot**](https://github.com/bodsch/ansible-dovecot) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-dovecot/main.yml?branch=main)][dovecotc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-dovecot)][dovecoti] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-dovecot)][dovecotp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-dovecot)][dovecotr] |
 | [**ansible-fail2ban**](https://github.com/bodsch/ansible-fail2ban) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-fail2ban/main.yml?branch=main)][fail2banc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-fail2ban)][fail2bani] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-fail2ban)][fail2banp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-fail2ban)][fail2banr] |
 | [**ansible-gitea**](https://github.com/bodsch/ansible-gitea) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-gitea/main.yml?branch=main)][giteac] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-gitea)][giteai] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-gitea)][giteap] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-gitea)][gitear] |
@@ -42,18 +40,13 @@
 | [**ansible-monitoring-plugins**](https://github.com/bodsch/ansible-monitoring-plugins) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-monitoring-plugins/main.yml?branch=main)][monitoring_pluginsc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-monitoring-plugins)][monitoring_pluginsi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-monitoring-plugins)][monitoring_pluginsp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-monitoring-plugins)][monitoring_pluginsr] |
 | [**ansible-mount**](https://github.com/bodsch/ansible-mount) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-mount/main.yml?branch=main)][mountc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-mount)][mounti] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-mount)][mountp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-mount)][mountr] |
 | [**ansible-mpd**](https://github.com/bodsch/ansible-mpd) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-mpd/main.yml?branch=main)][mpdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-mpd)][mpdi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-mpd)][mpdp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-mpd)][mpdr] |
-| [**ansible-mysql-exporter**](https://github.com/bodsch/ansible-mysql-exporter) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-mysql-exporter/main.yml?branch=main)][mysql_exporterc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-mysql-exporter)][mysql_exporteri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-mysql-exporter)][mysql_exporterp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-mysql-exporter)][mysql_exporterr] |
 | [**ansible-nginx**](https://github.com/bodsch/ansible-nginx) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-nginx/main.yml?branch=main)][nginxc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-nginx)][nginxi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-nginx)][nginxp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-nginx)][nginxr] |
-| [**ansible-nginx-exporter**](https://github.com/bodsch/ansible-nginx-exporter) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-nginx-exporter/main.yml?branch=main)][nginx_exporterc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-nginx-exporter)][nginx_exporteri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-nginx-exporter)][nginx_exporterp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-nginx-exporter)][nginx_exporterr] |
-| [**ansible-node-exporter**](https://github.com/bodsch/ansible-node-exporter) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-node-exporter/main.yml?branch=main)][node_exporterc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-node-exporter)][node_exporteri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-node-exporter)][node_exporterp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-node-exporter)][node_exporterr] |
 | [**ansible-openvpn**](https://github.com/bodsch/ansible-openvpn) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-openvpn/main.yml?branch=main)][openvpnc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-openvpn)][openvpni] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-openvpn)][openvpnp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-openvpn)][openvpnr] |
 | [**ansible-pacman**](https://github.com/bodsch/ansible-pacman) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-pacman/main.yml?branch=main)][pacmanc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-pacman)][pacmani] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-pacman)][pacmanp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-pacman)][pacmanr] |
 | [**ansible-php**](https://github.com/bodsch/ansible-php) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-php/main.yml?branch=main)][phpc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-php)][phpi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-php)][phpp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-php)][phpr] |
 | [**ansible-php-pecl**](https://github.com/bodsch/ansible-php-pecl) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-php-pecl/main.yml?branch=main)][php_peclc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-php-pecl)][php_pecli] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-php-pecl)][php_peclp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-php-pecl)][php_peclr] |
 | [**ansible-postfix**](https://github.com/bodsch/ansible-postfix) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-postfix/main.yml?branch=main)][postfixc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-postfix)][postfixi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-postfix)][postfixp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-postfix)][postfixr] |
-| [**ansible-prometheus**](https://github.com/bodsch/ansible-prometheus) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-prometheus/main.yml?branch=main)][prometheusc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-prometheus)][prometheusi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-prometheus)][prometheusp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-prometheus)][prometheusr] |
 | [**ansible-promtail**](https://github.com/bodsch/ansible-promtail) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-promtail/main.yml?branch=main)][promtailc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-promtail)][promtaili] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-promtail)][promtailp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-promtail)][promtailr] |
-| [**ansible-pushgateway**](https://github.com/bodsch/ansible-pushgateway) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-pushgateway/main.yml?branch=main)][pushgatewayc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-pushgateway)][pushgatewayi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-pushgateway)][pushgatewayp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-pushgateway)][pushgatewayr] |
 | [**ansible-redis**](https://github.com/bodsch/ansible-redis) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-redis/main.yml?branch=main)][redisc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-redis)][redisi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-redis)][redisp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-redis)][redisr] |
 | [**ansible-registry**](https://github.com/bodsch/ansible-registry) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-registry/main.yml?branch=main)][registryc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-registry)][registryi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-registry)][registryp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-registry)][registryr] |
 | [**ansible-registry-ui**](https://github.com/bodsch/ansible-registry-ui) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-registry-ui/main.yml?branch=main)][registry_uic] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-registry-ui)][registry_uii] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-registry-ui)][registry_uip] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-registry-ui)][registry_uir] |
@@ -63,16 +56,10 @@
 | [**ansible-snapd**](https://github.com/bodsch/ansible-snapd) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-snapd/main.yml?branch=main)][snapdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-snapd)][snapdi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-snapd)][snapdp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-snapd)][snapdr] |
 | [**ansible-syslog-ng**](https://github.com/bodsch/ansible-syslog-ng) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-syslog-ng/main.yml?branch=main)][syslog_ngc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-syslog-ng)][syslog_ngi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-syslog-ng)][syslog_ngp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-syslog-ng)][syslog_ngr] |
 | [**ansible-telegraf**](https://github.com/bodsch/ansible-telegraf) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-telegraf/main.yml?branch=main)][telegrafc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-telegraf)][telegrafi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-telegraf)][telegrafp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-telegraf)][telegrafr] |
-| [**ansible-trickster**](https://github.com/bodsch/ansible-trickster) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-trickster/main.yml?branch=main)][tricksterc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-trickster)][tricksteri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-trickster)][tricksterp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-trickster)][tricksterr] |
 | [**ansible-urbanterror**](https://github.com/bodsch/ansible-urbanterror) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-urbanterror/main.yml?branch=main)][urbanterrorc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-urbanterror)][urbanterrori] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-urbanterror)][urbanterrorp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-urbanterror)][urbanterrorr] |
 | [**ansible-users**](https://github.com/bodsch/ansible-users) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-users/main.yml?branch=main)][usersc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-users)][usersi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-users)][usersp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-users)][usersr] |
 
 
-
-[alertmanagerc]: https://github.com/bodsch/ansible-alertmanager/actions
-[alertmanageri]: https://github.com/bodsch/ansible-alertmanager/issues?q=is%3Aopen+is%3Aissue
-[alertmanagerp]: https://github.com/bodsch/ansible-alertmanager/pulls?q=is%3Aopen+is%3Apr
-[alertmanagerr]: https://github.com/bodsch/ansible-alertmanager/releases
 
 [algernonc]: https://github.com/bodsch/ansible-algernon/actions
 [algernoni]: https://github.com/bodsch/ansible-algernon/issues?q=is%3Aopen+is%3Aissue
@@ -128,11 +115,6 @@
 [dnsmasqi]: https://github.com/bodsch/ansible-dnsmasq/issues?q=is%3Aopen+is%3Aissue
 [dnsmasqp]: https://github.com/bodsch/ansible-dnsmasq/pulls?q=is%3Aopen+is%3Apr
 [dnsmasqr]: https://github.com/bodsch/ansible-dnsmasq/releases
-
-[docker_sdc]: https://github.com/bodsch/ansible-docker-sd/actions
-[docker_sdi]: https://github.com/bodsch/ansible-docker-sd/issues?q=is%3Aopen+is%3Aissue
-[docker_sdp]: https://github.com/bodsch/ansible-docker-sd/pulls?q=is%3Aopen+is%3Apr
-[docker_sdr]: https://github.com/bodsch/ansible-docker-sd/releases
 
 [dovecotc]: https://github.com/bodsch/ansible-dovecot/actions
 [dovecoti]: https://github.com/bodsch/ansible-dovecot/issues?q=is%3Aopen+is%3Aissue
@@ -269,25 +251,10 @@
 [mpdp]: https://github.com/bodsch/ansible-mpd/pulls?q=is%3Aopen+is%3Apr
 [mpdr]: https://github.com/bodsch/ansible-mpd/releases
 
-[mysql_exporterc]: https://github.com/bodsch/ansible-mysql-exporter/actions
-[mysql_exporteri]: https://github.com/bodsch/ansible-mysql-exporter/issues?q=is%3Aopen+is%3Aissue
-[mysql_exporterp]: https://github.com/bodsch/ansible-mysql-exporter/pulls?q=is%3Aopen+is%3Apr
-[mysql_exporterr]: https://github.com/bodsch/ansible-mysql-exporter/releases
-
 [nginxc]: https://github.com/bodsch/ansible-nginx/actions
 [nginxi]: https://github.com/bodsch/ansible-nginx/issues?q=is%3Aopen+is%3Aissue
 [nginxp]: https://github.com/bodsch/ansible-nginx/pulls?q=is%3Aopen+is%3Apr
 [nginxr]: https://github.com/bodsch/ansible-nginx/releases
-
-[nginx_exporterc]: https://github.com/bodsch/ansible-nginx-exporter/actions
-[nginx_exporteri]: https://github.com/bodsch/ansible-nginx-exporter/issues?q=is%3Aopen+is%3Aissue
-[nginx_exporterp]: https://github.com/bodsch/ansible-nginx-exporter/pulls?q=is%3Aopen+is%3Apr
-[nginx_exporterr]: https://github.com/bodsch/ansible-nginx-exporter/releases
-
-[node_exporterc]: https://github.com/bodsch/ansible-node-exporter/actions
-[node_exporteri]: https://github.com/bodsch/ansible-node-exporter/issues?q=is%3Aopen+is%3Aissue
-[node_exporterp]: https://github.com/bodsch/ansible-node-exporter/pulls?q=is%3Aopen+is%3Apr
-[node_exporterr]: https://github.com/bodsch/ansible-node-exporter/releases
 
 [openvpnc]: https://github.com/bodsch/ansible-openvpn/actions
 [openvpni]: https://github.com/bodsch/ansible-openvpn/issues?q=is%3Aopen+is%3Aissue
@@ -314,20 +281,10 @@
 [postfixp]: https://github.com/bodsch/ansible-postfix/pulls?q=is%3Aopen+is%3Apr
 [postfixr]: https://github.com/bodsch/ansible-postfix/releases
 
-[prometheusc]: https://github.com/bodsch/ansible-prometheus/actions
-[prometheusi]: https://github.com/bodsch/ansible-prometheus/issues?q=is%3Aopen+is%3Aissue
-[prometheusp]: https://github.com/bodsch/ansible-prometheus/pulls?q=is%3Aopen+is%3Apr
-[prometheusr]: https://github.com/bodsch/ansible-prometheus/releases
-
 [promtailc]: https://github.com/bodsch/ansible-promtail/actions
 [promtaili]: https://github.com/bodsch/ansible-promtail/issues?q=is%3Aopen+is%3Aissue
 [promtailp]: https://github.com/bodsch/ansible-promtail/pulls?q=is%3Aopen+is%3Apr
 [promtailr]: https://github.com/bodsch/ansible-promtail/releases
-
-[pushgatewayc]: https://github.com/bodsch/ansible-pushgateway/actions
-[pushgatewayi]: https://github.com/bodsch/ansible-pushgateway/issues?q=is%3Aopen+is%3Aissue
-[pushgatewayp]: https://github.com/bodsch/ansible-pushgateway/pulls?q=is%3Aopen+is%3Apr
-[pushgatewayr]: https://github.com/bodsch/ansible-pushgateway/releases
 
 [redisc]: https://github.com/bodsch/ansible-redis/actions
 [redisi]: https://github.com/bodsch/ansible-redis/issues?q=is%3Aopen+is%3Aissue
@@ -373,11 +330,6 @@
 [telegrafi]: https://github.com/bodsch/ansible-telegraf/issues?q=is%3Aopen+is%3Aissue
 [telegrafp]: https://github.com/bodsch/ansible-telegraf/pulls?q=is%3Aopen+is%3Apr
 [telegrafr]: https://github.com/bodsch/ansible-telegraf/releases
-
-[tricksterc]: https://github.com/bodsch/ansible-trickster/actions
-[tricksteri]: https://github.com/bodsch/ansible-trickster/issues?q=is%3Aopen+is%3Aissue
-[tricksterp]: https://github.com/bodsch/ansible-trickster/pulls?q=is%3Aopen+is%3Apr
-[tricksterr]: https://github.com/bodsch/ansible-trickster/releases
 
 [urbanterrorc]: https://github.com/bodsch/ansible-urbanterror/actions
 [urbanterrori]: https://github.com/bodsch/ansible-urbanterror/issues?q=is%3Aopen+is%3Aissue
