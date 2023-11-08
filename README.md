@@ -25,11 +25,6 @@
 | [**ansible-grafana**](https://github.com/bodsch/ansible-grafana) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-grafana/main.yml?branch=main)][grafanac] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-grafana)][grafanai] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-grafana)][grafanap] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-grafana)][grafanar] |
 | [**ansible-grafana-dashboards**](https://github.com/bodsch/ansible-grafana-dashboards) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-grafana-dashboards/main.yml?branch=main)][grafana_dashboardsc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-grafana-dashboards)][grafana_dashboardsi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-grafana-dashboards)][grafana_dashboardsp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-grafana-dashboards)][grafana_dashboardsr] |
 | [**ansible-htpasswd**](https://github.com/bodsch/ansible-htpasswd) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-htpasswd/main.yml?branch=main)][htpasswdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-htpasswd)][htpasswdi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-htpasswd)][htpasswdp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-htpasswd)][htpasswdr] |
-| [**ansible-icinga2**](https://github.com/bodsch/ansible-icinga2) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-icinga2/main.yml?branch=main)][icinga2c] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-icinga2)][icinga2i] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-icinga2)][icinga2p] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-icinga2)][icinga2r] |
-| [**ansible-icingadb**](https://github.com/bodsch/ansible-icingadb) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-icingadb/main.yml?branch=main)][icingadbc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-icingadb)][icingadbi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-icingadb)][icingadbp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-icingadb)][icingadbr] |
-| [**ansible-icingaweb2**](https://github.com/bodsch/ansible-icingaweb2) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-icingaweb2/main.yml?branch=main)][icingaweb2c] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-icingaweb2)][icingaweb2i] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-icingaweb2)][icingaweb2p] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-icingaweb2)][icingaweb2r] |
-| [**ansible-icingaweb2-modules**](https://github.com/bodsch/ansible-icingaweb2-modules) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-icingaweb2-modules/main.yml?branch=main)][icingaweb2_modulesc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-icingaweb2-modules)][icingaweb2_modulesi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-icingaweb2-modules)][icingaweb2_modulesp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-icingaweb2-modules)][icingaweb2_modulesr] |
-| [**ansible-icingaweb2-themes**](https://github.com/bodsch/ansible-icingaweb2-themes) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-icingaweb2-themes/main.yml?branch=main)][icingaweb2_themesc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-icingaweb2-themes)][icingaweb2_themesi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-icingaweb2-themes)][icingaweb2_themesp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-icingaweb2-themes)][icingaweb2_themesr] |
 | [**ansible-influxdb**](https://github.com/bodsch/ansible-influxdb) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-influxdb/main.yml?branch=main)][influxdbc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-influxdb)][influxdbi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-influxdb)][influxdbp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-influxdb)][influxdbr] |
 | [**ansible-jenkins**](https://github.com/bodsch/ansible-jenkins) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-jenkins/main.yml?branch=main)][jenkinsc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-jenkins)][jenkinsi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-jenkins)][jenkinsp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-jenkins)][jenkinsr] |
 | [**ansible-jolokia**](https://github.com/bodsch/ansible-jolokia) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-jolokia/main.yml?branch=main)][jolokiac] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-jolokia)][jolokiai] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-jolokia)][jolokiap] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-jolokia)][jolokiar] |
@@ -182,31 +177,6 @@
 [htpasswdi]: https://github.com/bodsch/ansible-htpasswd/issues?q=is%3Aopen+is%3Aissue
 [htpasswdp]: https://github.com/bodsch/ansible-htpasswd/pulls?q=is%3Aopen+is%3Apr
 [htpasswdr]: https://github.com/bodsch/ansible-htpasswd/releases
-
-[icinga2c]: https://github.com/bodsch/ansible-icinga2/actions
-[icinga2i]: https://github.com/bodsch/ansible-icinga2/issues?q=is%3Aopen+is%3Aissue
-[icinga2p]: https://github.com/bodsch/ansible-icinga2/pulls?q=is%3Aopen+is%3Apr
-[icinga2r]: https://github.com/bodsch/ansible-icinga2/releases
-
-[icingadbc]: https://github.com/bodsch/ansible-icingadb/actions
-[icingadbi]: https://github.com/bodsch/ansible-icingadb/issues?q=is%3Aopen+is%3Aissue
-[icingadbp]: https://github.com/bodsch/ansible-icingadb/pulls?q=is%3Aopen+is%3Apr
-[icingadbr]: https://github.com/bodsch/ansible-icingadb/releases
-
-[icingaweb2c]: https://github.com/bodsch/ansible-icingaweb2/actions
-[icingaweb2i]: https://github.com/bodsch/ansible-icingaweb2/issues?q=is%3Aopen+is%3Aissue
-[icingaweb2p]: https://github.com/bodsch/ansible-icingaweb2/pulls?q=is%3Aopen+is%3Apr
-[icingaweb2r]: https://github.com/bodsch/ansible-icingaweb2/releases
-
-[icingaweb2_modulesc]: https://github.com/bodsch/ansible-icingaweb2-modules/actions
-[icingaweb2_modulesi]: https://github.com/bodsch/ansible-icingaweb2-modules/issues?q=is%3Aopen+is%3Aissue
-[icingaweb2_modulesp]: https://github.com/bodsch/ansible-icingaweb2-modules/pulls?q=is%3Aopen+is%3Apr
-[icingaweb2_modulesr]: https://github.com/bodsch/ansible-icingaweb2-modules/releases
-
-[icingaweb2_themesc]: https://github.com/bodsch/ansible-icingaweb2-themes/actions
-[icingaweb2_themesi]: https://github.com/bodsch/ansible-icingaweb2-themes/issues?q=is%3Aopen+is%3Aissue
-[icingaweb2_themesp]: https://github.com/bodsch/ansible-icingaweb2-themes/pulls?q=is%3Aopen+is%3Apr
-[icingaweb2_themesr]: https://github.com/bodsch/ansible-icingaweb2-themes/releases
 
 [influxdbc]: https://github.com/bodsch/ansible-influxdb/actions
 [influxdbi]: https://github.com/bodsch/ansible-influxdb/issues?q=is%3Aopen+is%3Aissue
