@@ -8,11 +8,12 @@
 | [**ansible-awscli**](https://github.com/bodsch/ansible-awscli) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-awscli/main.yml?branch=main)][awsclic] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-awscli)][awsclii] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-awscli)][awsclip] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-awscli)][awsclir] |
 | [**ansible-chrony**](https://github.com/bodsch/ansible-chrony) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-chrony/main.yml?branch=main)][chronyc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-chrony)][chronyi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-chrony)][chronyp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-chrony)][chronyr] |
 | [**ansible-collection-core**](https://github.com/bodsch/ansible-collection-core) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-collection-core/main.yml?branch=main)][collection_corec] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-collection-core)][collection_corei] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-collection-core)][collection_corep] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-collection-core)][collection_corer] |
+| [**ansible-collection-docker**](https://github.com/bodsch/ansible-collection-docker) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-collection-docker/main.yml?branch=main)][collection_dockerc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-collection-docker)][collection_dockeri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-collection-docker)][collection_dockerp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-collection-docker)][collection_dockerr] |
 | [**ansible-collection-icinga**](https://github.com/bodsch/ansible-collection-icinga) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-collection-icinga/main.yml?branch=main)][collection_icingac] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-collection-icinga)][collection_icingai] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-collection-icinga)][collection_icingap] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-collection-icinga)][collection_icingar] |
+| [**ansible-collection-grafana**](https://github.com/bodsch/ansible-collection-grafana) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-collection-grafana/main.yml?branch=main)][collection_grafanac] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-collection-grafana)][collection_grafanai] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-collection-grafana)][collection_grafanap] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-collection-grafana)][collection_grafanar] |
 | [**ansible-collection-prometheus**](https://github.com/bodsch/ansible-collection-prometheus) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-collection-prometheus/main.yml?branch=main)][collection_prometheusc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-collection-prometheus)][collection_prometheusi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-collection-prometheus)][collection_prometheusp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-collection-prometheus)][collection_prometheusr] |
 | [**ansible-collection-scm**](https://github.com/bodsch/ansible-collection-scm) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-collection-scm/main.yml?branch=main)][collection_scmc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-collection-scm)][collection_scmi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-collection-scm)][collection_scmp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-collection-scm)][collection_scmr] |
 | [**ansible-collection-systemd**](https://github.com/bodsch/ansible-collection-systemd) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-collection-systemd/main.yml?branch=main)][collection_systemdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-collection-systemd)][collection_systemdi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-collection-systemd)][collection_systemdp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-collection-systemd)][collection_systemdr] |
-| [**ansible-container**](https://github.com/bodsch/ansible-container) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-container/main.yml?branch=main)][containerc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-container)][containeri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-container)][containerp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-container)][containerr] |
 | [**ansible-dhcpd**](https://github.com/bodsch/ansible-dhcpd) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-dhcpd/main.yml?branch=main)][dhcpdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-dhcpd)][dhcpdi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-dhcpd)][dhcpdp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-dhcpd)][dhcpdr] |
 | [**ansible-dnsmasq**](https://github.com/bodsch/ansible-dnsmasq) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-dnsmasq/main.yml?branch=main)][dnsmasqc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-dnsmasq)][dnsmasqi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-dnsmasq)][dnsmasqp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-dnsmasq)][dnsmasqr] |
 | [**ansible-dovecot**](https://github.com/bodsch/ansible-dovecot) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-dovecot/main.yml?branch=main)][dovecotc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-dovecot)][dovecoti] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-dovecot)][dovecotp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-dovecot)][dovecotr] |
@@ -22,8 +23,6 @@
 | [**ansible-glauth**](https://github.com/bodsch/ansible-glauth) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-glauth/main.yml?branch=main)][glauthc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-glauth)][glauthi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-glauth)][glauthp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-glauth)][glauthr] |
 | [**ansible-glauth-ui**](https://github.com/bodsch/ansible-glauth-ui) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-glauth-ui/main.yml?branch=main)][glauth_uic] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-glauth-ui)][glauth_uii] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-glauth-ui)][glauth_uip] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-glauth-ui)][glauth_uir] |
 | [**ansible-gotosocial**](https://github.com/bodsch/ansible-gotosocial) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-gotosocial/main.yml?branch=main)][gotosocialc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-gotosocial)][gotosociali] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-gotosocial)][gotosocialp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-gotosocial)][gotosocialr] |
-| [**ansible-grafana**](https://github.com/bodsch/ansible-grafana) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-grafana/main.yml?branch=main)][grafanac] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-grafana)][grafanai] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-grafana)][grafanap] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-grafana)][grafanar] |
-| [**ansible-grafana-dashboards**](https://github.com/bodsch/ansible-grafana-dashboards) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-grafana-dashboards/main.yml?branch=main)][grafana_dashboardsc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-grafana-dashboards)][grafana_dashboardsi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-grafana-dashboards)][grafana_dashboardsp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-grafana-dashboards)][grafana_dashboardsr] |
 | [**ansible-htpasswd**](https://github.com/bodsch/ansible-htpasswd) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-htpasswd/main.yml?branch=main)][htpasswdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-htpasswd)][htpasswdi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-htpasswd)][htpasswdp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-htpasswd)][htpasswdr] |
 | [**ansible-influxdb**](https://github.com/bodsch/ansible-influxdb) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-influxdb/main.yml?branch=main)][influxdbc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-influxdb)][influxdbi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-influxdb)][influxdbp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-influxdb)][influxdbr] |
 | [**ansible-jenkins**](https://github.com/bodsch/ansible-jenkins) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-jenkins/main.yml?branch=main)][jenkinsc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-jenkins)][jenkinsi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-jenkins)][jenkinsp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-jenkins)][jenkinsr] |
@@ -34,7 +33,6 @@
 | [**ansible-knot-resolver**](https://github.com/bodsch/ansible-knot-resolver) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-knot-resolver/main.yml?branch=main)][knot_resolverc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-knot-resolver)][knot_resolveri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-knot-resolver)][knot_resolverp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-knot-resolver)][knot_resolverr] |
 | [**ansible-libvirt**](https://github.com/bodsch/ansible-libvirt) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-libvirt/main.yml?branch=main)][libvirtc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-libvirt)][libvirti] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-libvirt)][libvirtp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-libvirt)][libvirtr] |
 | [**ansible-logrotate**](https://github.com/bodsch/ansible-logrotate) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-logrotate/main.yml?branch=main)][logrotatec] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-logrotate)][logrotatei] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-logrotate)][logrotatep] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-logrotate)][logrotater] |
-| [**ansible-loki**](https://github.com/bodsch/ansible-loki) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-loki/main.yml?branch=main)][lokic] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-loki)][lokii] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-loki)][lokip] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-loki)][lokir] |
 | [**ansible-mariadb**](https://github.com/bodsch/ansible-mariadb) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-mariadb/main.yml?branch=main)][mariadbc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-mariadb)][mariadbi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-mariadb)][mariadbp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-mariadb)][mariadbr] |
 | [**ansible-monit**](https://github.com/bodsch/ansible-monit) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-monit/main.yml?branch=main)][monitc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-monit)][moniti] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-monit)][monitp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-monit)][monitr] |
 | [**ansible-monitoring-plugins**](https://github.com/bodsch/ansible-monitoring-plugins) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-monitoring-plugins/main.yml?branch=main)][monitoring_pluginsc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-monitoring-plugins)][monitoring_pluginsi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-monitoring-plugins)][monitoring_pluginsp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-monitoring-plugins)][monitoring_pluginsr] |
@@ -47,11 +45,7 @@
 | [**ansible-php**](https://github.com/bodsch/ansible-php) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-php/main.yml?branch=main)][phpc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-php)][phpi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-php)][phpp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-php)][phpr] |
 | [**ansible-php-pecl**](https://github.com/bodsch/ansible-php-pecl) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-php-pecl/main.yml?branch=main)][php_peclc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-php-pecl)][php_pecli] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-php-pecl)][php_peclp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-php-pecl)][php_peclr] |
 | [**ansible-postfix**](https://github.com/bodsch/ansible-postfix) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-postfix/main.yml?branch=main)][postfixc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-postfix)][postfixi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-postfix)][postfixp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-postfix)][postfixr] |
-| [**ansible-promtail**](https://github.com/bodsch/ansible-promtail) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-promtail/main.yml?branch=main)][promtailc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-promtail)][promtaili] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-promtail)][promtailp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-promtail)][promtailr] |
 | [**ansible-redis**](https://github.com/bodsch/ansible-redis) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-redis/main.yml?branch=main)][redisc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-redis)][redisi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-redis)][redisp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-redis)][redisr] |
-| [**ansible-registry**](https://github.com/bodsch/ansible-registry) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-registry/main.yml?branch=main)][registryc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-registry)][registryi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-registry)][registryp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-registry)][registryr] |
-| [**ansible-registry-ui**](https://github.com/bodsch/ansible-registry-ui) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-registry-ui/main.yml?branch=main)][registry_uic] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-registry-ui)][registry_uii] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-registry-ui)][registry_uip] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-registry-ui)][registry_uir] |
-| [**ansible-role-docker**](https://github.com/bodsch/ansible-role-docker) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-role-docker/main.yml?branch=main)][role_dockerc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-role-docker)][role_dockeri] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-role-docker)][role_dockerp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-role-docker)][role_dockerr] |
 | [**ansible-screen**](https://github.com/bodsch/ansible-screen) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-screen/main.yml?branch=main)][screenc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-screen)][screeni] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-screen)][screenp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-screen)][screenr] |
 | [**ansible-snakeoil**](https://github.com/bodsch/ansible-snakeoil) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-snakeoil/main.yml?branch=main)][snakeoilc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-snakeoil)][snakeoili] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-snakeoil)][snakeoilp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-snakeoil)][snakeoilr] |
 | [**ansible-snapd**](https://github.com/bodsch/ansible-snapd) | [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/bodsch/ansible-snapd/main.yml?branch=main)][snapdc] | [![GitHub issues](https://img.shields.io/github/issues/bodsch/ansible-snapd)][snapdi] | [![GitHub pull-requests](https://img.shields.io/github/issues-pr/bodsch/ansible-snapd)][snapdp] | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/bodsch/ansible-snapd)][snapdr] |
@@ -93,10 +87,20 @@
 [collection_corep]: https://github.com/bodsch/ansible-collection-core/pulls?q=is%3Aopen+is%3Apr
 [collection_corer]: https://github.com/bodsch/ansible-collection-core/releases
 
+[collection_dockerc]: https://github.com/bodsch/ansible-collection-docker/actions
+[collection_dockeri]: https://github.com/bodsch/ansible-collection-docker/issues?q=is%3Aopen+is%3Aissue
+[collection_dockerp]: https://github.com/bodsch/ansible-collection-docker/pulls?q=is%3Aopen+is%3Apr
+[collection_dockerr]: https://github.com/bodsch/ansible-collection-docker/releases
+
 [collection_icingac]: https://github.com/bodsch/ansible-collection-icinga/actions
 [collection_icingai]: https://github.com/bodsch/ansible-collection-icinga/issues?q=is%3Aopen+is%3Aissue
 [collection_icingap]: https://github.com/bodsch/ansible-collection-icinga/pulls?q=is%3Aopen+is%3Apr
 [collection_icingar]: https://github.com/bodsch/ansible-collection-icinga/releases
+
+[collection_grafanac]: https://github.com/bodsch/ansible-collection-grafana/actions
+[collection_grafanai]: https://github.com/bodsch/ansible-collection-grafana/issues?q=is%3Aopen+is%3Aissue
+[collection_grafanap]: https://github.com/bodsch/ansible-collection-grafana/pulls?q=is%3Aopen+is%3Apr
+[collection_grafanar]: https://github.com/bodsch/ansible-collection-grafana/releases
 
 [collection_prometheusc]: https://github.com/bodsch/ansible-collection-prometheus/actions
 [collection_prometheusi]: https://github.com/bodsch/ansible-collection-prometheus/issues?q=is%3Aopen+is%3Aissue
@@ -112,11 +116,6 @@
 [collection_systemdi]: https://github.com/bodsch/ansible-collection-systemd/issues?q=is%3Aopen+is%3Aissue
 [collection_systemdp]: https://github.com/bodsch/ansible-collection-systemd/pulls?q=is%3Aopen+is%3Apr
 [collection_systemdr]: https://github.com/bodsch/ansible-collection-systemd/releases
-
-[containerc]: https://github.com/bodsch/ansible-container/actions
-[containeri]: https://github.com/bodsch/ansible-container/issues?q=is%3Aopen+is%3Aissue
-[containerp]: https://github.com/bodsch/ansible-container/pulls?q=is%3Aopen+is%3Apr
-[containerr]: https://github.com/bodsch/ansible-container/releases
 
 [dhcpdc]: https://github.com/bodsch/ansible-dhcpd/actions
 [dhcpdi]: https://github.com/bodsch/ansible-dhcpd/issues?q=is%3Aopen+is%3Aissue
@@ -162,16 +161,6 @@
 [gotosociali]: https://github.com/bodsch/ansible-gotosocial/issues?q=is%3Aopen+is%3Aissue
 [gotosocialp]: https://github.com/bodsch/ansible-gotosocial/pulls?q=is%3Aopen+is%3Apr
 [gotosocialr]: https://github.com/bodsch/ansible-gotosocial/releases
-
-[grafanac]: https://github.com/bodsch/ansible-grafana/actions
-[grafanai]: https://github.com/bodsch/ansible-grafana/issues?q=is%3Aopen+is%3Aissue
-[grafanap]: https://github.com/bodsch/ansible-grafana/pulls?q=is%3Aopen+is%3Apr
-[grafanar]: https://github.com/bodsch/ansible-grafana/releases
-
-[grafana_dashboardsc]: https://github.com/bodsch/ansible-grafana-dashboards/actions
-[grafana_dashboardsi]: https://github.com/bodsch/ansible-grafana-dashboards/issues?q=is%3Aopen+is%3Aissue
-[grafana_dashboardsp]: https://github.com/bodsch/ansible-grafana-dashboards/pulls?q=is%3Aopen+is%3Apr
-[grafana_dashboardsr]: https://github.com/bodsch/ansible-grafana-dashboards/releases
 
 [htpasswdc]: https://github.com/bodsch/ansible-htpasswd/actions
 [htpasswdi]: https://github.com/bodsch/ansible-htpasswd/issues?q=is%3Aopen+is%3Aissue
@@ -222,11 +211,6 @@
 [logrotatei]: https://github.com/bodsch/ansible-logrotate/issues?q=is%3Aopen+is%3Aissue
 [logrotatep]: https://github.com/bodsch/ansible-logrotate/pulls?q=is%3Aopen+is%3Apr
 [logrotater]: https://github.com/bodsch/ansible-logrotate/releases
-
-[lokic]: https://github.com/bodsch/ansible-loki/actions
-[lokii]: https://github.com/bodsch/ansible-loki/issues?q=is%3Aopen+is%3Aissue
-[lokip]: https://github.com/bodsch/ansible-loki/pulls?q=is%3Aopen+is%3Apr
-[lokir]: https://github.com/bodsch/ansible-loki/releases
 
 [mariadbc]: https://github.com/bodsch/ansible-mariadb/actions
 [mariadbi]: https://github.com/bodsch/ansible-mariadb/issues?q=is%3Aopen+is%3Aissue
@@ -288,30 +272,10 @@
 [postfixp]: https://github.com/bodsch/ansible-postfix/pulls?q=is%3Aopen+is%3Apr
 [postfixr]: https://github.com/bodsch/ansible-postfix/releases
 
-[promtailc]: https://github.com/bodsch/ansible-promtail/actions
-[promtaili]: https://github.com/bodsch/ansible-promtail/issues?q=is%3Aopen+is%3Aissue
-[promtailp]: https://github.com/bodsch/ansible-promtail/pulls?q=is%3Aopen+is%3Apr
-[promtailr]: https://github.com/bodsch/ansible-promtail/releases
-
 [redisc]: https://github.com/bodsch/ansible-redis/actions
 [redisi]: https://github.com/bodsch/ansible-redis/issues?q=is%3Aopen+is%3Aissue
 [redisp]: https://github.com/bodsch/ansible-redis/pulls?q=is%3Aopen+is%3Apr
 [redisr]: https://github.com/bodsch/ansible-redis/releases
-
-[registryc]: https://github.com/bodsch/ansible-registry/actions
-[registryi]: https://github.com/bodsch/ansible-registry/issues?q=is%3Aopen+is%3Aissue
-[registryp]: https://github.com/bodsch/ansible-registry/pulls?q=is%3Aopen+is%3Apr
-[registryr]: https://github.com/bodsch/ansible-registry/releases
-
-[registry_uic]: https://github.com/bodsch/ansible-registry-ui/actions
-[registry_uii]: https://github.com/bodsch/ansible-registry-ui/issues?q=is%3Aopen+is%3Aissue
-[registry_uip]: https://github.com/bodsch/ansible-registry-ui/pulls?q=is%3Aopen+is%3Apr
-[registry_uir]: https://github.com/bodsch/ansible-registry-ui/releases
-
-[role_dockerc]: https://github.com/bodsch/ansible-role-docker/actions
-[role_dockeri]: https://github.com/bodsch/ansible-role-docker/issues?q=is%3Aopen+is%3Aissue
-[role_dockerp]: https://github.com/bodsch/ansible-role-docker/pulls?q=is%3Aopen+is%3Apr
-[role_dockerr]: https://github.com/bodsch/ansible-role-docker/releases
 
 [screenc]: https://github.com/bodsch/ansible-screen/actions
 [screeni]: https://github.com/bodsch/ansible-screen/issues?q=is%3Aopen+is%3Aissue
